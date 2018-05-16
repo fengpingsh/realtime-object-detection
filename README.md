@@ -21,9 +21,11 @@ https://github.com/fengpingbaustem/realtime-face-recognition, this is another ex
 and recognition. I trained my own dataset and compile to graph file. You may find more information there.
 
 # Performance
-| Hardware   | pc + ncs  | raspberry pi + ncs  |
+| Hardware   | pc + ncs  | raspberry pi2 + ncs  |
 | ---------- | -----------|  -----------|
 | Max FPS    | 9.78  | 2.48  |
+
+Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz and 8GB DDR3 is used in PC.
 
 # Derived projects
 Here https://github.com/fengpingbaustem/realtime-face-recognition 
